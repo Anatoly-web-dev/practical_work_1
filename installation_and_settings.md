@@ -1,7 +1,7 @@
 [![home](./images/home.png)](./readme.md "Домой") [НА ГЛАВНУЮ](./readme.md "Вернуться на главную страницу")
 
 <!--Можно комбинировать HTML и Markdown. / Стили в дальнейшем будем задавать в CSS, пока исп. атрибут style /-->
-## Установка и настройка <span style="letter-spacing:3px; text-shadow:-1px 1px 3px #ff0073; font-size:24px">GIT</span>
+## Установка и настройка GIT
 
 ![logo_settings](./images/setting_icon.png)
 
