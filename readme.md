@@ -1,4 +1,5 @@
-# Инструкция. Быстрый старт в <span style="letter-spacing:3px; text-shadow:1px 1px 3px #ff0073;font-size:24px">GIT<span>
+
+# Инструкция. Быстрый старт в GIT
 
 LICENSE: *[MIT](./license.md "Лицензия")*
 
