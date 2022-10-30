@@ -1,6 +1,6 @@
 [![home](./images/home.png)](./readme.md "Домой") [НА ГЛАВНУЮ](./readme.md "Вернуться на главную страницу")
 
-## Возможных проблемы и их решение
+## Возможные проблемы и их решение
 
 ![lifebuoy_logo](./images/lifebuoy_logo.png)
 

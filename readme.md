@@ -23,7 +23,7 @@ LICENSE: *[MIT](./license.md "Лицензия")*
 
    2.3 [Перебазирование](./rebasing.md)
 
-   2.4 [Возможных проблемы и их решение](./different_situations.md)
+   2.4 [Возможные проблемы и их решение](./different_situations.md)
 
 3. [Просмотр истории коммитов](./history_commits.md) 
 
