@@ -1,7 +1,7 @@
 [![home](./images/home.png)](./readme.md "Домой") [НА ГЛАВНУЮ](./readme.md "Вернуться на главную страницу")
 
 <!--Можно комбинировать HTML и Markdown. / Стили в дальнейшем будем задавать в CSS, пока исп. атрибут style /-->
-## Установка и настройка GIT
+## Установка и основные настройки
 
 ![logo_settings](./images/setting_icon.png)
 
@@ -60,7 +60,7 @@ sudo yum install git
 
 * `git config --remove-section <user>` – удалить всю секцию ***user*** в настройках;
 
-* `git config --unset <user.name>` – удалить определенный параметр в настройках (в данном случаем ***имя польз.***);
+* `git config --unset <user.name>` – удалить определенный параметр в настройках *(в данном случаем имя пользователя)*;
 
 * `git config -h` - вывести все опции и описания команды `git config`;
 
@@ -86,4 +86,5 @@ license: *[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
 Home icon by *[Double-J Design](http://www.doublejdesign.co.uk)*, 
 license: *[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
 
-Быстрый старт в Git *[Anatoly Kostrykin](https://github.com/Anatoly-web-dev)*, **2022**
+Инструкция по работе с GIT  
+***[Anatoly Kostrykin](https://github.com/Anatoly-web-dev)***, **2022**

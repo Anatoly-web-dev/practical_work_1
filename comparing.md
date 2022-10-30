@@ -15,7 +15,7 @@
 `git diff <хэш коммита>` - если указать только один ***<хэш коммита>***, то произойдет 
 ***сравнение рабочей директории с репозторием*** (на момент этого коммита);
 
-`git diff (без указания веток и коммитов)` - выведет ***сравнение рабочей директории с индексом***; 
+`git diff (без указания веток и коммитов)` -  произойдет ***сравнение рабочей директории с индексом***; 
 при этом игнорируются не отслеживаемые файлы;
 
 Путь можно добавлять к любой форме `git diff`. Например:
@@ -50,4 +50,5 @@ license: *[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
 Home icon by *[Double-J Design](http://www.doublejdesign.co.uk)*, 
 license: *[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
 
-Быстрый старт в Git *[Anatoly Kostrykin](https://github.com/Anatoly-web-dev)*, **2022**
+Инструкция по работе с GIT  
+***[Anatoly Kostrykin](https://github.com/Anatoly-web-dev)***, **2022**

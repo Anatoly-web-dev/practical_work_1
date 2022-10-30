@@ -32,7 +32,7 @@ Git откроет интерфейс просмотра того, какие к
 
 * Если же такой потребности нет, быстрее будет использовать **стандартный режим rebase**, в котором от пользователя не требуются лишние действия до возникновения конфликтов.
 
- #### Цитаты великих людей  
+> #### Цитаты великих людей  
 > НЕ перемещайте коммиты, уже отправленные в публичный репозиторий  
 > -*~~10 страница сборника цитат Джейсона Стэйтема ;)~~ [Git book](https://git-scm.com/book/ru/v2 "оф. сайт Git")*
 
@@ -54,4 +54,5 @@ license: *[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
 Home icon by *[Double-J Design](http://www.doublejdesign.co.uk)*, 
 license: *[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
 
-Быстрый старт в Git *[Anatoly Kostrykin](https://github.com/Anatoly-web-dev)*, **2022**
+Инструкция по работе с GIT  
+***[Anatoly Kostrykin](https://github.com/Anatoly-web-dev)***, **2022**
