@@ -39,6 +39,3 @@ LICENSE: *[MIT](./license.md "Лицензия")*
 
 Git logo by *[Julien Monty](https://github.com/konpa)*, 
 license: *[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
-
-Инструкция по работе с GIT  
-***[Anatoly Kostrykin](https://github.com/Anatoly-web-dev)***, **2022**

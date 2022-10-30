@@ -72,7 +72,7 @@ Cмешанный `git reset --mixed` или просто `git reset` (*режи
 
 ---
 
-cancel logo by *[Bitsies](http://www.recepkutuk.com)*, 
+Cancel logo by *[Bitsies](http://www.recepkutuk.com)*, 
 license: *[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
 
 Arrows right and left by *[Tatice](http://tatice.deviantart.com)*, 
@@ -81,5 +81,4 @@ license: *[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
 Home icon by *[Double-J Design](http://www.doublejdesign.co.uk)*, 
 license: *[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
 
-Инструкция по работе с GIT  
-***[Anatoly Kostrykin](https://github.com/Anatoly-web-dev)***, **2022**
+LICENSE: *[MIT](./license.md "Лицензия")*

@@ -63,7 +63,7 @@ git branch <'имя_ветки'> <'хэш_последнего_коммита'>
 
 ---
 
-git branch logo by *[Elias](https://eliasruiz.com/)*, 
+Git branch logo by *[Elias](https://eliasruiz.com/)*, 
 license: *[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
 
 Arrows right and left by *[Tatice](http://tatice.deviantart.com)*, 
@@ -72,5 +72,4 @@ license: *[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
 Home icon by *[Double-J Design](http://www.doublejdesign.co.uk)*, 
 license: *[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
 
-Инструкция по работе с GIT  
-***[Anatoly Kostrykin](https://github.com/Anatoly-web-dev)***, **2022**
+LICENSE: *[MIT](./license.md "Лицензия")*

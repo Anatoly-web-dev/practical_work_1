@@ -45,7 +45,7 @@ Git откроет интерфейс просмотра того, какие к
 
 ---
 
-git rebase logo by *[GitHub](https://octicons.github.com/)*, 
+Git rebase logo by *[GitHub](https://octicons.github.com/)*, 
 license: *[Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)*
 
 Arrows right and left by *[Tatice](http://tatice.deviantart.com)*, 
@@ -54,5 +54,4 @@ license: *[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
 Home icon by *[Double-J Design](http://www.doublejdesign.co.uk)*, 
 license: *[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
 
-Инструкция по работе с GIT  
-***[Anatoly Kostrykin](https://github.com/Anatoly-web-dev)***, **2022**
+LICENSE: *[MIT](./license.md "Лицензия")*
